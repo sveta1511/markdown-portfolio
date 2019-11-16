@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am from **Kurgan**, but I live in **Moscow** now. I study at **BMSTU**.*
